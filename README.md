@@ -1,4 +1,4 @@
-## Hi, I'm Peekay 👋
+## Hi, I'm Peekay 👋 |Paseka Mabitsela
 Aspiring Cloud Developer | 2nd Year Software Engineering Student at WeThinkCode_
 
 - 🎓 Journey: Self-taught → full-stack development with Zaio → now studying Software Engineering at WeThinkCode_
