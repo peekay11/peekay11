@@ -8,7 +8,7 @@ Aspiring Cloud Developer | 2nd Year Software Engineering Student at WeThinkCode_
 - ☁️ Cloud: GCP, AWS, Cloudflare — deployed projects on all three, including serverless architectures using Cloudflare Workers, D1, and R2
 - 🔭 Experience: 1 year as a Junior App Developer & Tech Lead, followed by Project Management. Also manage independent tech projects under Evii Labs and WayForward Studios
 - 🌱 Currently learning: Deepening cloud development skills, preparing for CompTIA Security+, AWS Certified Data Engineer, and GCP Associate Cloud Engineer certifications
-- 🎥 Content Creator: Documenting my software engineering journey and tech logs on YouTube and TikTok — [@peekxy_sa]([https://tiktok.com/@peekxy_sa](https://youtu.be/gGtrpUseA6w?si=wluHV6xFZoYajwm9))
+- 🎥 Content Creator: Documenting my software engineering journey and tech logs on YouTube and TikTok — [@peekxy_sa](https://youtu.be/gGtrpUseA6w?si=wluHV6xFZoYajwm9)
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/paseka-mabitsela/)
 
 ### 🚀 Featured Project
