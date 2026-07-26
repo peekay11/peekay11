@@ -1,15 +1,27 @@
-## Hi, I'm Peekay 👋 |Paseka Mabitsela
-Aspiring Cloud Developer | 2nd Year Software Engineering Student at WeThinkCode_
+# Hi, I'm Peekay 👋
+### Paseka Mabitsela — Aspiring Cloud Developer | 2nd Year SE Student @ WeThinkCode_
 
-- 🎓 Journey: Self-taught → full-stack development with Zaio → now studying Software Engineering at WeThinkCode_
-- 💼 Current Role: Supervisor for Peer Mentors at WeThinkCode_, supporting students
-- 💻 Languages & OS: Java, Python, JavaScript (Node.js) | Linux (Ubuntu) — comfortable in the terminal, enjoy Bash scripting
-- 🏗️ Backend & System Design: Custom API design, system design principles, serverless deployments, and building custom RAG pipelines
-- ☁️ Cloud: GCP, AWS, Cloudflare — deployed projects on all three, including serverless architectures using Cloudflare Workers, D1, and R2
-- 🔭 Experience: 1 year as a Junior App Developer & Tech Lead, followed by Project Management. Also manage independent tech projects under Evii Labs and WayForward Studios
-- 🌱 Currently learning: Deepening cloud development skills, preparing for CompTIA Security+, AWS Certified Data Engineer, and GCP Associate Cloud Engineer certifications
-- 🎥 Content Creator: Documenting my software engineering journey and tech logs on YouTube and TikTok — [@peekxy_sa](https://youtu.be/gGtrpUseA6w?si=wluHV6xFZoYajwm9)
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/paseka-mabitsela/)
+## 1. Background
+- Self-taught → Zaio full-stack → WeThinkCode_ Software Engineering
+- Peer Mentor Supervisor @ WeThinkCode_
+- 1yr Junior App Dev & Tech Lead → Project Management
+- Run Evii Labs & WayForward Studios
 
-### 🚀 Featured Project
-**[eviiDrive](https://github.com/peekay11/eviiDrive)** — Helps drivers price their rides based on distance, car type, load, and other factors. Built primarily in Python, integrating distance/routing APIs.
+## 2. Skills
+1. **Languages/OS:** Java, Python, JS (Node.js), Linux (Ubuntu), Bash
+2. **Backend:** API design, system design, serverless, RAG pipelines
+3. **Cloud:** AWS, GCP, Cloudflare (Workers, D1, R2)
+
+## 3. Currently Learning
+- CompTIA Security+
+- AWS Certified Data Engineer
+- GCP Associate Cloud Engineer
+
+## 4. Featured Project
+**[eviiDrive](https://github.com/peekay11/eviiDrive)**
+- Ride pricing by distance, car type, load
+- Python + routing APIs
+
+## 5. Connect
+- 🎥 [@peekxy_sa](https://youtu.be/gGtrpUseA6w?si=wluHV6xFZoYajwm9)
+- 📫 [LinkedIn](https://www.linkedin.com/in/paseka-mabitsela/)
