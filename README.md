@@ -15,8 +15,7 @@
 3. ☁️ **Cloud:** AWS, GCP, Cloudflare (Workers, D1, R2)
 
 ## 3. 🌱 Currently Learning
-- 🔐 CompTIA Security+
-- 📊 AWS Certified Data Engineer
+- 📊 AWS Certified Cloud Practitioner
 - ☁️ GCP Associate Cloud Engineer
 
 ## 4. 🚀 Featured Project
