@@ -1,5 +1,5 @@
 # Hi, I'm Paseka Mabitsela 👋
-### Paseka Mabitsela — Aspiring Cloud Developer | 2nd Year SE Student @ WeThinkCode_
+### Paseka Mabitsela - Aspiring Cloud Developer | 2nd Year SE Student @ WeThinkCode_
 
 ## 1. 🧑‍🎓 Background
 - ⏳ 1+ Year Work Experience
