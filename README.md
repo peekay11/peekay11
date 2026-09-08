@@ -1,4 +1,4 @@
-# Paseka Mabitsela — Aspiring Cloud Developer | 2nd Year SE Student @ WeThinkCode_
+# Paseka Mabitsela  Aspiring Cloud Developer | 2nd Year SE Student @ WeThinkCode_
 
 ## ![Background](https://img.shields.io/badge/-Background-informational?style=flat&logo=read-the-docs&logoColor=white) Background
 - 1+ year work experience, freelancer
