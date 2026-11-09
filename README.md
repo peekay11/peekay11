@@ -27,7 +27,7 @@ Self-taught first, then Zaio's full-stack bootcamp (NQF 5, React, Node.js, Mongo
 - **[MoMoSafe](https://github.com/peekay11/momo_safe)**: escrow state machine, ledger and MTN request-to-pay on Python Azure Functions and PostgreSQL, behind Azure API Management with Entra ID. Docker Compose and GitHub Actions CI.
 - **[Thuso Health](https://github.com/peekay11/thuso-health)**: Hono API on Cloudflare Workers with D1 and R2, JWT auth, Leaflet and OSRM maps. [Live demo](https://thuso-health.pages.dev)
 - **[eviiDrive](https://github.com/peekay11/eviiDrive)**: ride-fare engine for 13 vehicle types using OSRM routing, Nominatim geocoding and live weather. Flask, Docker Compose, Nginx.
-- **SpeedTestaa** ([speedtestaa.com](https://speedtestaa.com)): live React speed test with an [Express and MongoDB backend](https://github.com/peekay11/speedtest-backend) for results, country averages and a blog.
+- **SpeedTestaa**: React speed-test app with an [Express and MongoDB backend](https://github.com/peekay11/speedtest-backend) for results, country averages and a blog.
 
 ## Stack
 
