@@ -1,35 +1,40 @@
-# Paseka Mabitsela  Aspiring Cloud Developer | 2nd Year SE Student @ WeThinkCode_
+# Paseka Mabitsela
 
-## ![Background](https://img.shields.io/badge/-Background-informational?style=flat&logo=read-the-docs&logoColor=white) Background
-- 1+ year work experience, freelancer
-- Self-taught → Zaio full-stack → WeThinkCode_ Software Engineering
-- Peer Mentor Supervisor @ WeThinkCode_
-- 1yr Junior App Dev & Tech Lead → Project Management
-- Runs Evii Labs & WayForward Studios
+**Cloud and backend engineer in Johannesburg, focused on fintech and DevOps.**
+AWS Certified AI Practitioner · WeThinkCode_ Software Engineering (NQF 6) · [pasekamabitsela.com](https://pasekamabitsela.com)
 
-## ![Skills](https://img.shields.io/badge/-Skills-blue?style=flat&logo=code&logoColor=white) Skills
-**Languages/OS:**
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+## Experience
 
-**Backend:** API design, system design, serverless, RAG pipelines
+- **Supervisor for Peer Mentors, WeThinkCode_** (Mar 2026 to now): run technical workshops on architecture and systems design and lead code reviews for mentors.
+- **Tech Lead, iTorho** (Jul to Dec 2025): promoted from intern after six months to lead a team of 4. Node.js/Express APIs behind a React Native app, payment gateway integration and GitHub Actions CI/CD.
+- **Software Engineering Intern, iTorho** (Jan to Jul 2025)
+- **Freelance full-stack developer** (2024): web apps for small businesses with MongoDB backends, deployed to Netlify and Render.
 
-**Cloud:**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+Self-taught first, then Zaio's full-stack bootcamp (NQF 5, React, Node.js, MongoDB), now WeThinkCode_.
 
-## ![Learning](https://img.shields.io/badge/-Currently_Learning-green?style=flat&logo=googlescholar&logoColor=white) Currently Learning
-- AWS Certified Cloud Practitioner
-- GCP Associate Cloud Engineer
+## Hackathons (2026)
 
-## ![Project](https://img.shields.io/badge/-Featured_Project-orange?style=flat&logo=github&logoColor=white) Featured Project
-**[eviiDrive](https://github.com/peekay11/eviiDrive)** — Ride pricing by distance, car type, and load. Built with Python and routing APIs.
+| Result | Event | What I built |
+|---|---|---|
+| 1st | GDG Build with AI | - |
+| 2nd | MTN MoMo Fintech Hackathon | MoCredit: credit builder for MoMo users (Cloudflare Workers, D1, Flutter, Gemini) |
+| 2nd | MTN Reimagine Africa | [MoMoSafe](https://github.com/peekay11/momo_safe): mobile-money escrow (Azure Functions, PostgreSQL, Flutter) |
+| Top 3 | Youth Tech Expo | [Thuso Health](https://github.com/peekay11/thuso-health): digital health passport and clinic booking (Cloudflare Workers, Hono, D1, R2) |
+| Top 12 | Geekulcha | - |
 
-## ![Connect](https://img.shields.io/badge/-Connect-red?style=flat&logo=rss&logoColor=white) Connect
-[![YouTube](https://img.shields.io/badge/-@peekxy__sa-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/gGtrpUseA6w?si=wluHV6xFZoYajwm9)
-[![LinkedIn](https://img.shields.io/badge/-Paseka_Mabitsela-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paseka-mabitsela/)
+## Selected projects
+
+- **[MoMoSafe](https://github.com/peekay11/momo_safe)**: escrow state machine, ledger and MTN request-to-pay on Python Azure Functions and PostgreSQL, behind Azure API Management with Entra ID. Docker Compose and GitHub Actions CI.
+- **[Thuso Health](https://github.com/peekay11/thuso-health)**: Hono API on Cloudflare Workers with D1 and R2, JWT auth, Leaflet and OSRM maps. [Live demo](https://thuso-health.pages.dev)
+- **[eviiDrive](https://github.com/peekay11/eviiDrive)**: ride-fare engine for 13 vehicle types using OSRM routing, Nominatim geocoding and live weather. Flask, Docker Compose, Nginx.
+- **SpeedTestaa** ([speedtestaa.com](https://speedtestaa.com)): live React speed test with an [Express and MongoDB backend](https://github.com/peekay11/speedtest-backend) for results, country averages and a blog.
+
+## Stack
+
+**Backend:** Java, Python, TypeScript/Node.js, REST API design, PostgreSQL, MongoDB
+**Cloud and DevOps:** Azure (Functions, API Management), GCP Cloud Run and Cloud Build, Cloudflare Workers, D1 and R2, Docker, GitHub Actions
+**Testing:** JUnit 5, pytest, Vitest, Playwright
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/paseka-mabitsela/) · pasekamabitsela22@gmail.com
